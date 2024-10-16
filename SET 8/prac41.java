@@ -33,8 +33,9 @@ public class prac41 {
             }
         }
         System.out.println("Total keywords are : " + count);
+        System.out.print("\nName : DAKSH SAVANI_23DCS116\n");
         fr.close();
         sc.close();
-        System.out.print("\nName : DAKSH SAVANI_23DCS116\n");
+    
     }
 }
