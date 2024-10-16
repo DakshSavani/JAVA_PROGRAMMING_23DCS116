@@ -12,7 +12,7 @@ class prac12
 	int R=S1.nextInt();
 	int P=R*100;
 	System.out.println("Currency in Rupees=" + P);
-	System.out.print("\nName : DAKSH SAVANI_23DCS116 ");
+	
 
     }
 }
